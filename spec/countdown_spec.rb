@@ -1,8 +1,8 @@
-def countdown(10)
-  while countdown > 0 
-  countdown -= 1 
-  puts 10
-end
+def countdown(int)
+  while int > 0 
+  puts int
+  int -= 1 
+  end
   puts "HAPPY NEW YEAR!"
 end 
 
